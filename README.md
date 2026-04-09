@@ -32,7 +32,8 @@ This project demonstrates various creative animations using pure CSS and HTML. I
 2. Open `index.html` in any browser
 
 ## 📸 Output
-*(Add screenshots here if you want)*
+<img width="1763" height="1191" alt="image" src="https://github.com/user-attachments/assets/b0b91f16-a0ab-4d42-a00b-bbde578da69e" />
+
 
 ## 📧 Author
 **Anjali Kirunge**
